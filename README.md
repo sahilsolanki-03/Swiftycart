@@ -33,7 +33,7 @@ Swiftycart/
 ```bash
 cd Backend
 npm install
-npm run dev
+npm server.js
 ```
 
 ### 2. Frontend Setup
@@ -46,15 +46,7 @@ npm run dev
 
 ---
 
-## 🔐 Backend Environment Variables
 
-Backend folder mein `.env` file banao aur yeh variables daalo:
-
-```
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-```
 
 ---
 
@@ -63,7 +55,6 @@ JWT_SECRET=your_secret_key
 - `express` — Web framework
 - `mongoose` — MongoDB ODM
 - `jsonwebtoken` — JWT authentication
-- `bcryptjs` — Password hashing
 - `cors` — Cross-origin requests
 - `dotenv` — Environment variables
 
