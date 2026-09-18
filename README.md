@@ -22,7 +22,7 @@ Swiftycart/
 | Frontend | React 19, Vite               |
 | Backend  | Node.js, Express.js          |
 | Database | MongoDB (Mongoose)           |
-| Auth     | JWT (jsonwebtoken), bcryptjs |
+| Auth     | JWT (jsonwebtoken),          |
 
 ---
 
