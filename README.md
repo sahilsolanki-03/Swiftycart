@@ -33,7 +33,7 @@ Swiftycart/
 ```bash
 cd Backend
 npm install
-npm server.js
+node server.js
 ```
 
 ### 2. Frontend Setup
